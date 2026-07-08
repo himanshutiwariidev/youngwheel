@@ -356,7 +356,7 @@ const products = [
     ],
   },
   {
-    slug: "riders",
+    slug: "kids-ride-on-toys-manufacturer",
     categoryName: "Riders",
     categoryImage: "/categories/riders.webp",
     categoryDescription:
@@ -544,7 +544,7 @@ const products = [
     ],
   },
   {
-    slug: "electric-rideons",
+    slug: "kids-ride-on-toys-manufacturer",
     categoryName: "Electric Rideons",
     h1: "Electric Ride On Cars for Kids — Manufactured in Delhi Since 2019",
     metaTitle: "Best Electric Ride On Cars for Kids | Battery Operated | Young Wheels",
@@ -686,7 +686,7 @@ const products = [
     products: [{ productName: "Rocking Rider", image: "/rockingrider.png" }],
   },
   {
-    slug: "tricycle",
+    slug: "children-tricycle-manufacturer",
     categoryName: "Tri-Cycle",
     categoryImage: "/categories/tricycle.webp",
     categoryDescription:
@@ -697,7 +697,7 @@ const products = [
     ],
   },
   {
-    slug: "kick-scooter",
+    slug: "kids-kick-scooter-manufacturer",
     categoryName: "Kids Kick Scooter",
     categoryImage: "/categories/kick-scooter.webp",
     categoryDescription:
