@@ -94,7 +94,7 @@ export default function BatteryOperatedRideOnCarManufacturerPage() {
                 <p style="font-size:0.95rem;color:#6b7280;">
                   This page is for retailers, distributors, and bulk buyers.
                   Parents looking to buy a single unit should visit our
-                  <a href="/category/electric-rydons">electric ride on cars for kids</a>
+                  <a href="/electric-rideons">electric ride on cars for kids</a>
                   page instead.
                 </p>
 
@@ -163,8 +163,8 @@ export default function BatteryOperatedRideOnCarManufacturerPage() {
                 </ul>
                 <p>
                   Also stock our
-                  <a href="/category/electric-rydons">electric ride on cars for kids</a>,
-                  <a href="/category/magic-car-swing-car">magic cars</a>, and
+                  <a href="/electric-rideons">electric ride on cars for kids</a>,
+                  <a href="/magic-car-swing-car">magic cars</a>, and
                   <a href="/baby-potty-seat-manufacturer">baby potty seats</a>
                   for a complete wholesale catalogue.
                 </p>

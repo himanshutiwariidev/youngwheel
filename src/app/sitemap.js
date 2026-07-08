@@ -30,7 +30,7 @@ export default function sitemap() {
   }));
 
   const categoryRoutes = products.map((category) => ({
-    url: `${SITE_URL}/category/${category.slug}`,
+    url: `${SITE_URL}/${category.slug}`,
     lastModified: now,
     changeFrequency: "weekly",
     priority: 0.8,

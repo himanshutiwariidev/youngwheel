@@ -96,7 +96,7 @@ export default function BabyPottySeatManufacturerPage() {
                   This page is for retailers, distributors, and exporters
                   buying in bulk. If you're a parent looking to buy a single
                   potty chair, visit our
-                  <a href="/category/potty-chair-for-kids">potty chair for kids</a>
+                  <a href="/potty-chair-for-kids">potty chair for kids</a>
                   page instead.
                 </p>
 
@@ -154,9 +154,9 @@ export default function BabyPottySeatManufacturerPage() {
                 </ul>
                 <p>
                   Also stock our full
-                  <a href="/category/potty-chair-for-kids">potty chair for kids</a>
+                  <a href="/potty-chair-for-kids">potty chair for kids</a>
                   range, or explore our
-                  <a href="/category/baby-walker-manufacturer">baby walker</a> and
+                  <a href="/baby-walker-manufacturer">baby walker</a> and
                   <a href="/battery-operated-ride-on-car-manufacturer">battery operated ride-on car</a>
                   lines for a complete wholesale catalogue.
                 </p>

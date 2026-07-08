@@ -80,7 +80,7 @@ export default function CategorySection() {
         >
           {categories.map((category, index) => (
             <SwiperSlide key={index}>
-              <Link href={`/category/${category.slug}`}>
+              <Link href={`/${category.slug}`}>
 
                 <div className="relative overflow-hidden rounded-[30px]  aspect-[1.45/1] group">
 

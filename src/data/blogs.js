@@ -3,7 +3,7 @@ const blogs = [
     slug: "popular-magic-car-for-kids-guide",
     title:
       "Popular Magic Car for Kids: The Complete Parent's Guide to the Ride-On Toy Every Toddler Loves",
-    image: "/categories/magic-car.png",
+    image: "/categories/magic-car.webp",
     metaTitle: "Magic Car for Kids — The Complete Parent's Buying Guide",
     metaDescription:
       "A simple, honest guide to magic cars for kids — how they work, safety tips, age guide, and where to buy a kids magic car online in Delhi.",
@@ -15,7 +15,7 @@ const blogs = [
         driveway on a small, colourful car with no pedals, no motor, and no
         battery, you've seen a magic car in action. It's one of the reasons
         more parents today choose to buy a
-        <a href="/category/magic-car-swing-car">kids magic car online</a>
+        <a href="/magic-car-swing-car">kids magic car online</a>
         instead of a traditional pedal toy &mdash; no charging, no fuel, just
         a simple twisting motion that gets a child moving.
       </p>
@@ -116,7 +116,7 @@ const blogs = [
       <p>
         Young Wheels is a Delhi-based manufacturer that's been making safe,
         durable ride-on toys for kids since 2019. Browse our full
-        <a href="/category/magic-car-swing-car">range of 15+ magic car designs</a>,
+        <a href="/magic-car-swing-car">range of 15+ magic car designs</a>,
         or <a href="/contact-us">WhatsApp us</a> and we'll help you pick the
         right model for your child's age.
       </p>
@@ -129,8 +129,8 @@ const blogs = [
         something that genuinely encourages active, independent, screen-free
         play, it's absolutely worth a spot on your shortlist. If you're
         shopping for other essentials too, check out our
-        <a href="/category/baby-walker-manufacturer">baby walkers</a> and
-        <a href="/category/potty-chair-for-kids">potty chairs for kids</a>.
+        <a href="/baby-walker-manufacturer">baby walkers</a> and
+        <a href="/potty-chair-for-kids">potty chairs for kids</a>.
       </p>
     `,
     faqs: [
@@ -175,7 +175,7 @@ const blogs = [
     slug: "best-potty-chair-for-kids-guide",
     title:
       "Best Potty Chair for Kids: The Complete Parent's Guide to Starting Potty Training",
-    image: "/categories/pottychair.png",
+    image: "/categories/pottychair.webp",
     metaTitle: "Best Potty Chair for Kids Complete Parent's Guide",
     metaDescription:
       "A simple, honest guide to choosing a potty chair for kids — age guide, safety tips, training steps, and how to pick the right one for your toddler.",
@@ -185,7 +185,7 @@ const blogs = [
       <p>
         Every parent reaches this point eventually, usually somewhere around
         their child's second birthday: staring at a dozen different
-        <a href="/category/potty-chair-for-kids">potty chairs for kids</a>
+        <a href="/potty-chair-for-kids">potty chairs for kids</a>
         and wondering which one is actually right for your toddler. This
         guide walks you through everything worth knowing &mdash; how to pick
         the right one, when to start using it, and what actually makes the
@@ -267,7 +267,7 @@ const blogs = [
         from simple comfort-focused models like the Foam Potty to character
         options like the Teddy Potty Chair and Cow Potty that make reluctant
         toddlers more willing to sit still. Browse our
-        <a href="/category/potty-chair-for-kids">full potty chair range</a>,
+        <a href="/potty-chair-for-kids">full potty chair range</a>,
         or if you're buying in bulk, see our
         <a href="/baby-potty-seat-manufacturer">wholesale potty seat manufacturer page</a>.
         If you're not sure which one fits your child best,
@@ -311,7 +311,7 @@ const blogs = [
   {
     slug: "best-electric-ride-on-cars-for-kids-guide",
     title: "Electric Ride On Cars for Kids: The Complete Parent's Buying Guide",
-    image: "/categories/electric-rideons.png",
+    image: "/categories/electric-rideons.webp",
     metaTitle: "Best Electric Ride On Cars for Kids Complete Buying Guide",
     metaDescription:
       "A simple guide to electric ride on cars for kids — how they work, safety tips, age guide, battery basics, and how to pick the right one.",
@@ -322,7 +322,7 @@ const blogs = [
         If you've ever seen a small child driving their own little car around
         the garden or driveway, grinning like they're behind the wheel of
         something real, you've seen
-        <a href="/category/electric-rydons">electric ride on cars for kids</a>
+        <a href="/electric-rideons">electric ride on cars for kids</a>
         in action. This guide walks you through everything worth knowing
         before you buy one.
       </p>
@@ -393,7 +393,7 @@ const blogs = [
         Young Wheels is a Delhi-based manufacturer that's been making battery
         operated ride-on cars since 2019, including the Tractor Electric and
         JCV Electric. Browse our
-        <a href="/category/electric-rydons">full electric ride-on range</a>,
+        <a href="/electric-rideons">full electric ride-on range</a>,
         or if you're buying in bulk, see our
         <a href="/battery-operated-ride-on-car-manufacturer">wholesale ride-on car manufacturer page</a>.
         <a href="/contact-us">WhatsApp us</a> for pricing and to find the

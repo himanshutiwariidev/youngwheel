@@ -91,8 +91,8 @@ const products = [
       </p>
       <p>
         Looking for something else for your little one? Take a look at our
-        <a href="/category/magic-car-swing-car">magic cars &amp; swing cars</a>
-        and <a href="/category/potty-chair-for-kids">potty chairs for kids</a>
+        <a href="/magic-car-swing-car">magic cars &amp; swing cars</a>
+        and <a href="/potty-chair-for-kids">potty chairs for kids</a>
         too, or browse our full <a href="/products">product range</a>.
       </p>
 
@@ -274,8 +274,8 @@ const products = [
       </p>
       <p>
         Also raising a younger sibling? Check out our
-        <a href="/category/baby-walker-manufacturer">baby walkers</a> and
-        <a href="/category/potty-chair-for-kids">potty chairs for kids</a>.
+        <a href="/baby-walker-manufacturer">baby walkers</a> and
+        <a href="/potty-chair-for-kids">potty chairs for kids</a>.
       </p>
 
       <h2>Ready to Order?</h2>
@@ -622,8 +622,8 @@ const products = [
       </p>
       <p>
         Looking for something gentler for a younger toddler? Browse our
-        <a href="/category/magic-car-swing-car">magic cars</a> and
-        <a href="/category/baby-walker-manufacturer">baby walkers</a> too.
+        <a href="/magic-car-swing-car">magic cars</a> and
+        <a href="/baby-walker-manufacturer">baby walkers</a> too.
       </p>
 
       <h2>Ready to Order?</h2>

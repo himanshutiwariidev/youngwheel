@@ -25,7 +25,7 @@ export async function generateMetadata({ params }) {
       "kids ride on toys",
     ],
     alternates: {
-      canonical: `/category/${slug}`,
+      canonical: `/${slug}`,
     },
   };
 }
