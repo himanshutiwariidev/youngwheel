@@ -10,6 +10,7 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-heading: "Baloo 2", sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,4 +24,64 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Styling for rich SEO content injected via dangerouslySetInnerHTML */
+.rich-content h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #111827;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.rich-content h2:first-child {
+  margin-top: 0;
+}
+
+.rich-content p {
+  margin-bottom: 1.25rem;
+}
+
+.rich-content ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.rich-content li {
+  margin-bottom: 0.5rem;
+}
+
+.rich-content a {
+  color: #ff4d6d;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.rich-content a:hover {
+  color: #e0345a;
+}
+
+.rich-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.rich-content th,
+.rich-content td {
+  border: 1px solid #e5e7eb;
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+}
+
+.rich-content th {
+  background: #fdf5e8;
+  font-weight: 700;
+}
+
+.rich-content tr:nth-child(even) td {
+  background: #fafafa;
 }
