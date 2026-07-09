@@ -66,7 +66,7 @@ export default function AboutPage() {
 
            <div className="md:hidden relative z-10 w-full max-w-[320px] mx-auto">
               <Image
-                src="/aboutimage.png"
+                src="/aboutimage.webp"
                 alt="Young Wheels"
                 width={540}
                 height={620}
