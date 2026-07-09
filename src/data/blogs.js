@@ -311,7 +311,7 @@ const blogs = [
   {
     slug: "best-electric-ride-on-cars-for-kids-guide",
     title: "Electric Ride On Cars for Kids: The Complete Parent's Buying Guide",
-    image: "/categories/electric-rideons.webp",
+    image: "/categories/electric-rydons.webp",
     metaTitle: "Best Electric Ride On Cars for Kids Complete Buying Guide",
     metaDescription:
       "A simple guide to electric ride on cars for kids — how they work, safety tips, age guide, battery basics, and how to pick the right one.",
@@ -322,7 +322,7 @@ const blogs = [
         If you've ever seen a small child driving their own little car around
         the garden or driveway, grinning like they're behind the wheel of
         something real, you've seen
-        <a href="/electric-rideons">electric ride on cars for kids</a>
+        <a href="/electric-rydons">electric ride on cars for kids</a>
         in action. This guide walks you through everything worth knowing
         before you buy one.
       </p>
@@ -393,7 +393,7 @@ const blogs = [
         Young Wheels is a Delhi-based manufacturer that's been making battery
         operated ride-on cars since 2019, including the Tractor Electric and
         JCV Electric. Browse our
-        <a href="/electric-rideons">full electric ride-on range</a>,
+        <a href="/electric-rydons">full electric ride-on range</a>,
         or if you're buying in bulk, see our
         <a href="/battery-operated-ride-on-car-manufacturer">wholesale ride-on car manufacturer page</a>.
         <a href="/contact-us">WhatsApp us</a> for pricing and to find the
