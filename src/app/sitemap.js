@@ -37,7 +37,7 @@ export default function sitemap() {
   }));
 
   const blogRoutes = blogs.map((post) => ({
-    url: `${SITE_URL}/blog/${post.slug}`,
+    url: `${SITE_URL}/${post.slug}`,
     lastModified: now,
     changeFrequency: "monthly",
     priority: 0.6,

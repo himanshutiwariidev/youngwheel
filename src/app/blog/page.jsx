@@ -30,7 +30,7 @@ export default function BlogIndexPage() {
             {blogs.map((post) => (
               <Link
                 key={post.slug}
-                href={`/blog/${post.slug}`}
+                href={`/${post.slug}`}
                 className="bg-white rounded-3xl overflow-hidden shadow-md hover:shadow-xl hover:-translate-y-1 transition duration-300 flex flex-col"
               >
                 <div className="relative h-48 bg-[#f7ead3]">
