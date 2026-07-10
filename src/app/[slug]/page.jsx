@@ -2,8 +2,8 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import products from "@/data/products";
 import blogs from "@/data/blogs";
-/* import Breadcrumb from "@/components/Breadcrumb";
- */
+import Breadcrumb from "@/components/Breadcrumb";
+
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const category = products.find((item) => item.slug === slug);
