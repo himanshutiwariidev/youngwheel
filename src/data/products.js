@@ -16,7 +16,7 @@ const products = [
     categoryImage: "/categories/walker.webp",
     categoryDescription: `
       <p>
-        Young Wheels is a <strong>baby walker manufacturer and supplier</strong>
+        Young Wheels is a <strong><a href="/contact-us">baby walker manufacturer</a> and supplier</strong>
         based in New Delhi, India. Since 2019, we've manufactured two baby
         walker models &mdash; the Bunny Push Walker and Casper Deluxe Walker
         &mdash; supplying retailers, distributors, and online sellers across
@@ -169,7 +169,7 @@ const products = [
     categoryImage: "/categories/magic-car.webp",
     categoryDescription: `
       <p>
-        Young Wheels is a <strong>popular magic car manufacturer</strong>
+        Young Wheels is a <strong>popular <a href="/contact-us">magic car manufacturer</a></strong>
         based in Delhi, making 15+ ride-on models since 2019. Also known as
         swing cars or twist cars, our magic cars use body-movement steering
         &mdash; no batteries, no pedals &mdash; and are built for children
@@ -381,7 +381,7 @@ const products = [
 
       <h2>Why Choose Young Wheels as Your Kids’ Ride-On Toy Manufacturer?</h2>
       <p>
-        As a professional <strong>Kids Ride On Toy Manufacturer</strong>, Young Wheels focuses on quality, safety, and design excellence. We understand that parents look for toys that are fun, safe, and reliable. That is why our Kids Electric Ride On Cars and Battery Operated Ride On Toys are tested under strict quality standards.
+        As a professional <strong><a href="/contact-us">Kids Ride On Toy Manufacturer</a></strong>, Young Wheels focuses on quality, safety, and design excellence. We understand that parents look for toys that are fun, safe, and reliable. That is why our Kids Electric Ride On Cars and Battery Operated Ride On Toys are tested under strict quality standards.
       </p>
       <p>
         All of the Ride On Cars for Kids are made with safe plastic, rounded edges, and wheels that stay in place, so kids can ride safely. Our toys help kids improve their balance, coordination, and motor skills while they play.
@@ -501,7 +501,7 @@ const products = [
     categoryImage: "/categories/pottychair.webp",
     categoryDescription: `
       <p>
-        Young Wheels manufactures <strong>potty chairs for kids</strong> from
+        Young Wheels manufactures <strong><a href="/contact-us">potty chairs for kids</a></strong> from
         our facility in New Delhi (MSME: UDYAM-DL-10-0029707), offering 10+
         designs across foam, plastic, and character-themed models &mdash;
         including the Teddy Potty Chair, Cow Potty, and Sofa Potty. Built
@@ -672,7 +672,7 @@ const products = [
     categoryImage: "/categories/electric-rideons.webp",
     categoryDescription: `
       <p>
-        Young Wheels manufactures electric ride on cars for kids from our facility in New Delhi (MSME: UDYAM-DL-10-0029707), including models like the Tractor Electric and JCV Electric. Built with rechargeable batteries and child-safe controls, our ride-on cars are supplied wholesale to retailers and distributors, with custom branding available for bulk buyers.
+        Young Wheels manufactures <a href="/contact-us">electric ride on cars for kids</a> from our facility in New Delhi (MSME: UDYAM-DL-10-0029707), including models like the Tractor Electric and JCV Electric. Built with rechargeable batteries and child-safe controls, our ride-on cars are supplied wholesale to retailers and distributors, with custom branding available for bulk buyers.
       </p>
 
       <h2>What Is an Electric Ride On Cars for Kids?</h2>
@@ -796,7 +796,7 @@ const products = [
     categoryImage: "/categories/tricycle.webp",
     categoryDescription: `
       <p>
-        Young Wheels is a leading <a href="https://www.youngwheel.com/product/">Children Tricycle Manufacturer in Delhi</a>, offering high-quality, safe, and durable tricycles for kids of all age groups. With a strong focus on innovation and child safety, Young Wheels has earned the trust of distributors, retailers, and wholesalers across India.
+        Young Wheels is a leading <a href="/contact-us">Children Tricycle Manufacturer in Delhi</a>, offering high-quality, safe, and durable tricycles for kids of all age groups. With a strong focus on innovation and child safety, Young Wheels has earned the trust of distributors, retailers, and wholesalers across India.
       </p>
 
       <p>
@@ -975,9 +975,116 @@ const products = [
   {
     slug: "kids-kick-scooter-manufacturer",
     categoryName: "Kids Kick Scooter",
+    h1: "Young Wheel – Trusted Kids Kick Scooter Manufacturer in Delhi",
+    metaTitle: "Top Kids Kick Scooter Manufacturer in Delhi - Young Wheel",
+    metaDescription:
+      "Young Wheel – Leading Kids Kick Scooter Manufacturer in Delhi, offering lightweight, and trendy scooters designed for kids. Shop Now!",
+    keywords: ["Kids Kick Scooter Manufacturer"],
     categoryImage: "/categories/kick-scooter.webp",
-    categoryDescription:
-      "<p>Our Kick Scooters are lightweight, durable, and designed for smooth riding, helping children develop balance and coordination while having fun.</p>",
+    categoryDescription: `
+      <p>
+        When it comes to outdoor fun, fitness, and excitement, kick scooters are a favorite among kids. They are stylish, easy to ride, and help children develop balance and coordination while enjoying playtime. At Young Wheel, we are proud to be a leading <a href="/contact-us">Kids Kick Scooter Manufacturer</a> in Delhi, offering premium quality scooters designed with safety, durability, and fun in mind.
+      </p>
+      <p>
+        Our scooters are perfect for parents looking for the best mix of safety and style, as well as for kids who want to explore and play with confidence.
+      </p>
+
+      <h2>Why Choose Young Wheel for Kids Kick Scooters?</h2>
+      <p>
+        At Young Wheel, we believe every child deserves safe and enjoyable rides. That's why we manufacture scooters that combine quality, style, and comfort. Parents across Delhi and beyond trust us because of:
+      </p>
+      <ul>
+        <li>Strong &amp; Durable Build – Made with sturdy frames and smooth wheels.</li>
+        <li>Child-Safe Design – Non-toxic materials with stable structures.</li>
+        <li>Stylish &amp; Modern Look – Trendy colors and attractive themes kids love.</li>
+        <li>Easy to Ride – Lightweight and simple steering for smooth gliding.</li>
+        <li>Affordable Prices – Premium scooters at parent-friendly rates.</li>
+      </ul>
+      <p>
+        As a reputed Kids Kick Scooter Manufacturer in Delhi, we focus on innovation and child comfort to create products that stand out in both safety and style.
+      </p>
+
+      <h2>Our Popular Kids Kick Scooters</h2>
+      <p>
+        Young Wheel offers a variety of models, but our four featured scooters – Stylo Kick Scooter, Ferrari Kick Scooter, Speedy Kick Scooter, and Royal Panda Kick Scooter – are loved by children and parents alike.
+      </p>
+
+      <h3>1. Stylo Kick Scooter</h3>
+      <p>
+        The Stylo Kick Scooter combines fashion and fun. With its stylish design and lightweight build, kids can enjoy hours of smooth riding indoors and outdoors.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Sleek and trendy design.</li>
+        <li>Easy folding mechanism for portability.</li>
+        <li>Durable wheels for a stable ride.</li>
+        <li>Lightweight frame for kids' comfort.</li>
+      </ul>
+
+      <h3>2. Ferrari Kick Scooter</h3>
+      <p>
+        The Ferrari Kick Scooter is all about speed and thrill. Designed for kids who love adventure, it gives a sporty riding experience while ensuring complete safety.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Sporty design inspired by racing style.</li>
+        <li>High-quality wheels for smooth gliding.</li>
+        <li>Strong frame for extra durability.</li>
+        <li>Comfortable handles for better grip.</li>
+      </ul>
+
+      <h3>3. Speedy Kick Scooter</h3>
+      <p>
+        The Speedy Kick Scooter is built for kids who love fast and fun rides. Its strong build and smooth wheels make it ideal for energetic children.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Sturdy frame for safe riding.</li>
+        <li>Smooth-rolling wheels for faster rides.</li>
+        <li>Attractive design for active kids.</li>
+        <li>Lightweight and easy to carry.</li>
+      </ul>
+
+      <h3>4. Royal Panda Kick Scooter</h3>
+      <p>
+        The Royal Panda Kick Scooter is a unique design that children adore. With panda-inspired styling and a strong build, it brings fun and safety together.
+      </p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Cute panda-themed design.</li>
+        <li>Wide footboard for safe balance.</li>
+        <li>Durable construction for long-lasting use.</li>
+        <li>Engaging look that kids instantly love.</li>
+      </ul>
+
+      <h2>Benefits of Kids Kick Scooters</h2>
+      <p>
+        Kick scooters are more than just fun toys – they contribute to your child's physical and mental growth. Here's why parents choose them:
+      </p>
+      <ul>
+        <li>Improves Balance &amp; Coordination – Helps kids gain confidence in movement.</li>
+        <li>Encourages Outdoor Play – Keeps children active and away from screens.</li>
+        <li>Builds Independence – Kids learn to ride safely on their own.</li>
+        <li>Lightweight &amp; Portable – Easy to carry for park visits or outdoor trips.</li>
+        <li>Safe &amp; Enjoyable – Designed with child safety in mind.</li>
+      </ul>
+
+      <h2>Why Young Wheel is the Right Choice</h2>
+      <p>
+        As a trusted Kids Kick Scooter Manufacturer in Delhi, Young Wheel stands out for:
+      </p>
+      <ul>
+        <li>Wide range of stylish scooters.</li>
+        <li>Premium safety features and strong build.</li>
+        <li>Affordable yet durable products.</li>
+        <li>Designs kids love and parents trust.</li>
+      </ul>
+
+      <h2>Conclusion</h2>
+      <p>
+        If you're looking for a reliable Kids Kick Scooter Manufacturer in Delhi, Young Wheel is your perfect partner. Our models like the Stylo Kick Scooter, Ferrari Kick Scooter, Speedy Kick Scooter, and Royal Panda Kick Scooter are designed to give children the best mix of fun, safety, and confidence.
+      </p>
+    `,
     products: [
       { productName: "Stylo Kick Scooter", image: "/stylokickscooter.png" },
       { productName: "Ferrari Kick Scooter", image: "/ferrarikickscooter.png" },
