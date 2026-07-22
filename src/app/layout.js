@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import "@fontsource/baloo-2/500.css";
 import "@fontsource/baloo-2/600.css";
@@ -33,7 +34,23 @@ export default function RootLayout({ children }) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col"><Header/>{children}<Footer/></body>
+      <body className="min-h-full flex flex-col">
+        <Header/>{children}<Footer/>
+
+        {/* Google tag (gtag.js) */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-HQDYS7XNC9"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-HQDYS7XNC9');
+          `}
+        </Script>
+      </body>
     </html>
   );
 }
